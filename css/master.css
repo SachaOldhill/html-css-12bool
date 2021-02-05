@@ -1,0 +1,16 @@
+.pink-h100{
+  background-color: rgb(255, 174, 185);
+  height: 150px;
+  text-align: center;
+  line-height: 150px;
+  border: 1px solid black;
+}
+.padding{
+  padding: 10px;
+}
+.pink-last{
+  background-color: rgb(247, 108, 120);
+  height: 100%;
+  text-align: center;
+  line-height: 140px;
+}
